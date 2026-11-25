@@ -1,0 +1,16 @@
+{
+  "name": "TenderBough",
+  "short_name": "TenderBough",
+  "description": "AI document intelligence software that extracts tender requirements and organizes supporting documentation for procurement teams.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f6f8",
+  "theme_color": "#f5f6f8",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
