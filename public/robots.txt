@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /workspace
 
-Sitemap: https://tenderbough.top/sitemap.xml
+Sitemap: https://tenderbough.space/sitemap.xml

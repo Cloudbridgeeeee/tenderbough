@@ -9,7 +9,7 @@ Marketing website and interactive product demonstration for TenderBough.
 - Industry: Procurement, Business Intelligence, Natural Language Processing
 - Founder: Azeem Oladimeji (Founder & CEO)
 - Co-founder: Chisom Uba (Co-founder & CTO)
-- Contact: azeem@tenderbough.top
+- Contact: azeem@tenderbough.space
 - Business model: Tender-volume subscriptions
 
 ## Stack
